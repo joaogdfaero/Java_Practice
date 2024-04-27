@@ -24,7 +24,7 @@ public class Main {
         return num1 - num2;
     }
     
-    // arrota    
+    // Mostra o nome    
     private static void printName(String name) {
         System.out.println(name);
     }
